@@ -91,16 +91,6 @@ If you want to work locally using your own IDE, you can clone this repo and push
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/11c8041a-a771-4ee0-a8bc-2d7c14436f80) and click on Share -> Publish.
@@ -112,4 +102,3 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-# ShailKavach
